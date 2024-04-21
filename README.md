@@ -7,7 +7,7 @@ This repository contains the necessary resources and configuration files to depl
 3. **Data Tier**: Aurora database deployed on AWS RDS.
 
 ## Architecture Diagram
-![Architecture Diagram](AWS Three Tier Web Application.drawio (4).png)
+![Architecture Diagram](/path/to/architecture_diagram.png)
 
 ## Deployment Steps
 
