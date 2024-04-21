@@ -2,7 +2,7 @@
 
 This repository contains the necessary resources and configuration files to deploy a three-tier web application on Amazon Web Services (AWS). The application architecture consists of the following tiers:
 
-1. **Presentation Tier**: NGINX web server serving a React.js website.
+1. **Web Tier**: NGINX web server serving a React.js website.
 2. **Application Tier**: Node.js application running on an EC2 instance.
 3. **Data Tier**: Aurora database deployed on AWS RDS.
 
