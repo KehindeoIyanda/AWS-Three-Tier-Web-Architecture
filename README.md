@@ -35,6 +35,7 @@ This repository contains the necessary resources and configuration files to depl
 - Set up autoscaling with a load balancer for the application tier to handle increased traffic efficiently.
 
 ### 7. Deploy Web Tier
+![web tier](Assets/ALB.png)
 - Launch another EC2 instance for the web tier. Utilize the AMI created in the previous step for consistent configuration.
 - Install NGINX web server on the EC2 instance.
 - Configure NGINX to serve the React.js website.
