@@ -26,7 +26,6 @@ This repository contains the necessary resources and configuration files to depl
 - Deploy an Aurora database instance on AWS RDS. Configure the necessary settings such as instance type, storage, and security groups.
 
 ### 5. Deploy Application Tier
-![app tier](Assets/App-Layer ec2.png)
 - Launch an EC2 instance for the application tier. Use the previously created IAM EC2 role for secure connections.
 - Install Node.js and any required dependencies on the EC2 instance.
 - Retrieve the application code from the S3 bucket and deploy it on the EC2 instance.
